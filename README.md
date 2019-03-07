@@ -1,3 +1,5 @@
 Apache Hive
 ================
-[![Master build Status]()()]
+
+The Apache Hive
+
